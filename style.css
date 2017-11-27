@@ -72,8 +72,13 @@ li a:hover {
 
 .columnhome 
 {
-    float: left;
+    float: center;
     width: 93.33%;
+}
+.rowhome
+{
+    margin-right: -15px;
+    margin-left: 0px;
 }
 
 .row:after 
